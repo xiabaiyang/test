@@ -14,6 +14,6 @@ feat two
 
 feat three
 
-issue1
+issue1(change)
 
 issue2
