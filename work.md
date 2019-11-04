@@ -15,3 +15,5 @@ feat two
 feat three
 
 other1
+
+hot fix
