@@ -29,6 +29,3 @@ issue 3
 issue 4
 
 issue 5
-
-issue 6
-
